@@ -1,1 +1,0 @@
-# Documentacion auxiliar para Instalacion de Andino.	
