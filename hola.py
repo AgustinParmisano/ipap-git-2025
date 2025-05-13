@@ -1,1 +1,1 @@
-print("staging area")
+print("Es la staging area de git")
